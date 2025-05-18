@@ -1,17 +1,16 @@
 # Time_Series_arima
-# Time_Series_ARIMA
 
 A demonstration of time-series analysis with Auto-ARIMA to solve a financial forecasting problem.
 
 ## 📈 Business Problem
 Given historical stock data for **Bajaj Finance**, predict the **Volume Weighted Average Price (VWAP)** using relevant independent variables (e.g., Open, High, Low, Close, Volume).
 
-### 1. Clone the repository
+###1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/time-series-arima.git
 cd time-series-arima
 
-### 2. Create & activate a virtual environment
+###2. Create & activate a virtual environment
 python3 -m venv venv
 source venv/bin/activate       # macOS/Linux
 venv\Scripts\activate          # Windows
