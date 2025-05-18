@@ -64,10 +64,7 @@ Suggest potential improvements (exogenous variables, seasonal ARIMA, ensemble me
 📦 Requirements
 pandas
 numpy
-matplotlib
-seaborn
 pmdarima
 scikit-learn
-jupyterlab
 (Install with pip install -r requirements.txt.)
 
